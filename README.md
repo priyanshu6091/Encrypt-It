@@ -35,6 +35,16 @@ A cross-platform Flutter application for securely storing and managing encrypted
 
 ---
 
+## Screenshots
+
+<img width="507" alt="image" src="https://github.com/user-attachments/assets/df302ebc-d171-427a-b776-2759f28a4ec5" />
+<img width="511" alt="image" src="https://github.com/user-attachments/assets/f47da718-493c-437a-a69f-056beb0a314e" />
+<img width="508" alt="image" src="https://github.com/user-attachments/assets/eb38383b-75d5-426b-9ae2-210205b72f2b" />
+<img width="507" alt="image" src="https://github.com/user-attachments/assets/84ae0b59-be4f-4f1c-9e65-ce41094e560c" />
+
+
+
+
 ## Project Structure
 
 ```
